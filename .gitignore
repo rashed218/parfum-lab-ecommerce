@@ -1,0 +1,6 @@
+ecommerce-web/target/
+*.war
+.vscode/
+.env
+.env.*
+*.log
